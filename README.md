@@ -12,11 +12,3 @@ This is a Django-based API project for managing books and reviews. The project i
 - [Endpoints](#endpoints)
 - [License](#license)
 
-## Installation
-
-Follow these steps to set up the project locally.
-
-### Clone the repository
-```bash
-git clone https://github.com/yourusername/django-book-management-api.git
-cd django-book-management-api
